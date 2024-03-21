@@ -1,9 +1,0 @@
-saleId,INID,customerId,customerName,totalQty,totalBill,Status,balance
-1,2,1,Khoa,75,2030,Paid,0
-2,3,4,Essmus,24,250,Paid,750
-3,4,4,Essmus,36,2222,Paid,278
-4,5,0,Khoa,23,233,Partial,-33
-5,6,4,Essmus,8,84,Paid,0
-6,7,4,Essmus,12,500,Paid,20
-7,8,5,Trixy,48,381,Partial,-80
-8,9,0,Khoa,16,455,UnPaid,-455
